@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitSamples", "XUnitSamples\XUnitSamples.csproj", "{236A0B29-E000-4B0E-BDAB-0703978B1C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitSamples.Test", "XUnitSamples.Test\XUnitSamples.Test.csproj", "{414C3F7E-3C07-4DB8-8CAA-36B0B705059B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236A0B29-E000-4B0E-BDAB-0703978B1C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236A0B29-E000-4B0E-BDAB-0703978B1C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236A0B29-E000-4B0E-BDAB-0703978B1C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236A0B29-E000-4B0E-BDAB-0703978B1C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414C3F7E-3C07-4DB8-8CAA-36B0B705059B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414C3F7E-3C07-4DB8-8CAA-36B0B705059B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414C3F7E-3C07-4DB8-8CAA-36B0B705059B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414C3F7E-3C07-4DB8-8CAA-36B0B705059B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
